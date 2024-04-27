@@ -1,5 +1,9 @@
 # Graph-Algorithm 😄
-It contains all graph based algorithm
+- It contains all graph based algorithm
+  + Dijkstra
+  + `Kruskal`
+  + Prim
+  + `Floyd_Warshell`
 
 ### Simple Unioin Implementation { Union-Find (Disjoint Set Union) }
 ![Screenshot from 2024-01-24 11-37-11](https://github.com/PranabNandy/Graph-Algorithm/assets/34576104/8e2f93bf-83c8-4045-b5b7-ec76c14e7115)
